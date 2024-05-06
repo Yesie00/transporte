@@ -1,0 +1,50 @@
+body{padding-left: 15em;
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 15px;
+    color: #000000;
+    text-align: justify;
+    background-image: url(truck3_1920x1200.jpg);}
+
+ul.navbar{
+
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        position: absolute;
+        top: 2em;
+        left: 0em;
+        width: 12em;
+        
+        }
+ul.navbar li{
+    margin: 0.5em;
+    padding:0.5em;
+    border-top: 1em solid black;
+    background: #E6E6FA;
+   
+    
+            }
+
+h1{text-align:center;margin-left: 80px;font-family: monospace;
+    margin-top: 20px;
+    font-size: 350%;
+    color: #800080;}
+h2,h3{font-family: Georgia, Times, serif;
+font-size: 150%;
+color: #A52A2A;
+margin-top: 0;
+margin-left: 30PX;}
+h3{color: #800000;}
+h4{text-align: right}
+
+p{line-height: 1.5 em;
+text-indent: 15pox;
+    font-size: 130%;
+    margin: 40px;}
+    img {border: 1px solid #000000;
+    margin: 10px;
+    float: right;}
+    div.cuerpo {margin: 0 20px 20px;
+    background-color: #FFFFFF80;}
+    .azul{font-weight: bold;
+    color: #6C6CCA;}
